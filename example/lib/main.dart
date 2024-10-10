@@ -324,6 +324,7 @@ class _MyHomePageState extends State<MyHomePage> {
             messages.forEach((element) {
               print(element);
             });
+            return null;
           },
         ),
       ),

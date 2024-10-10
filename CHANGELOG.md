@@ -1,3 +1,9 @@
+## [2.2.2] - October 10, 2024:
+* Upgrade Flutter to v3.24.3
+* Fix lint issues
+* Remove `MathElement` (`flutter_math_fork` is no longer updated which cause `flutter_svg` to be stuck on previous version)
+
+
 ## [2.2.1] - December 8, 2021:
 * Allow styling on ruby tags
 * Allow width/height/alignment styling on table/tr/td tags
